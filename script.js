@@ -57,7 +57,7 @@ function createMessageBox(message) {
  
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "I knew you'd pick yes (¬‿¬), Text me what time on Friday!!";
+  question.innerHTML = "I knew you'd pick yes (¬‿¬), Text me what time for Friday!!";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
